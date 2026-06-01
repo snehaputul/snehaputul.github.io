@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch *)",
+      "Bash(gh auth *)",
+      "Bash(curl -sf -o /dev/null https://snehaputul.github.io/sage_3D/)",
+      "Bash(curl -sI https://snehaputul.github.io/sage_3D/)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
